@@ -1,13 +1,25 @@
 # JavaScript Counter
 
-A simple counter application built using vanilla HTML, CSS, and JavaScript.
+A simple counter application built with vanilla JavaScript.  
+This project demonstrates fundamental DOM manipulation, event handling, and state management without frameworks.
 
 ## Features
-- Increment, decrement, and reset functionality
-- Clean separation of HTML, CSS, and JavaScript
-- Minimal, responsive UI
+- Increment counter
+- Decrement counter
+- Reset counter
+
+## Technologies Used
+- HTML
+- CSS
+- JavaScript (ES6)
 
 ## What I Learned
-- DOM selection and event handling
-- Managing state with JavaScript variables
-- Structuring a small project in a professional way
+- Selecting and manipulating DOM elements
+- Handling user events
+- Managing application state with JavaScript
+- Structuring a small project cleanly
+
+## Future Improvements
+- Keyboard support
+- Animation on value change
+- Persist counter value using localStorage
