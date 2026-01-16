@@ -11,6 +11,13 @@ modern web development.
 - React
 - Git & GitHub
 
+## Projects
+
+### JavaScript Counter
+A simple vanilla JavaScript project demonstrating DOM manipulation and state management.
+
+- Source: [`projects/js-counter`](projects/js-counter)
+
 ## Structure
 - `projects/` – Completed and in-progress projects
 - `notes/` – Learning notes and reflections
