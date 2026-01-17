@@ -23,3 +23,7 @@ This project demonstrates fundamental DOM manipulation, event handling, and stat
 - Keyboard support
 - Animation on value change
 - Persist counter value using localStorage
+
+## Live Demo
+https://redgateer.github.io/portfolio-2026/
+

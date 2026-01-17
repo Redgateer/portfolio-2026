@@ -17,6 +17,7 @@ modern web development.
 A simple vanilla JavaScript project demonstrating DOM manipulation and state management.
 
 - Source: [`projects/js-counter`](projects/js-counter)
+- Live Demo: https://redgateer.github.io/portfolio-2026/
 
 ## Structure
 - `projects/` – Completed and in-progress projects
